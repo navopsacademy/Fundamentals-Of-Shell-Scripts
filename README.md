@@ -1,5 +1,4 @@
 
-````md
 # Fundamentals Of Shell Scripts 🐧
 
 A beginner-friendly collection of **Bash shell scripting examples** created by **NavOps Academy** to help learners understand Linux shell scripting from basics to intermediate level.
@@ -135,4 +134,5 @@ This project is **open-source** and free to use for learning and teaching purpos
 ## ✨ Maintained By
 
 **NavOps Academy | Building Career's**
+
 Empowering learners in Linux, DevOps, Cloud & Automation 🚀
