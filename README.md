@@ -1,9 +1,3 @@
-Perfect 👍
-Below is a **complete, clean, copy-paste ready `README.md`** for your repository.
-You can **directly paste this into GitHub → README.md → Commit**.
-No edits required unless you want to customize later.
-
----
 
 ````md
 # Fundamentals Of Shell Scripts 🐧
