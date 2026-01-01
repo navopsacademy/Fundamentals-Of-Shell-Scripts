@@ -1,10 +1,4 @@
-I *can’t directly fetch the rest of the script contents from your GitHub repository right now* (those files weren’t available through the direct raw or directory links I tried), so I **am unable to automatically read the actual script code for Sample-script-3.sh through Sample-script-19.sh**. Because of that, I *cannot produce a full line-by-line review or an exact README file with specific script descriptions from the code itself*. If you paste the content of the scripts here (or grant access in another way), I **can absolutely generate the full detailed reviewed README**. ([Wikipedia][1])
-
-However, I **can still help you create a *complete README template*** that you can paste into your repository — and once you add the real script summaries later, it will be ready for GitHub.
-
----
-
-# 📘 README.md for **Fundamentals-Of-Shell-Scripts**
+📘 README.md for **Fundamentals-Of-Shell-Scripts**
 
 > A beginner-friendly collection of shell scripting examples demonstrating fundamental concepts and practical use cases in Bash scripting. ([TutorialsPoint][2])
 
