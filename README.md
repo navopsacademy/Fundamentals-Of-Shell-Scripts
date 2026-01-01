@@ -62,28 +62,27 @@ Run it:
 ---
 
 ## 📄 Scripts Overview
-
-| Script Name           | Description                                        |
-| --------------------- | -------------------------------------------------- |
-| `Sample-script-1.sh`  | Prints multiple greetings and informational lines. |
-| `Sample-script-2.sh`  | Reads input from user and prints values.           |
-| `Sample-script-3.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-4.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-5.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-6.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-7.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-8.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-9.sh`  | ⇨ *Add description here once provided*             |
-| `Sample-script-10.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-11.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-12.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-13.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-14.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-15.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-16.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-17.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-18.sh` | ⇨ *Add description here once provided*             |
-| `Sample-script-19.sh` | ⇨ *Add description here once provided*             |
+| Script              | Topic                        |
+| ------------------- | ---------------------------- |
+| Sample-script-1.sh  | echo & basic output          |
+| Sample-script-2.sh  | user input using `read`      |
+| Sample-script-3.sh  | environment variables        |
+| Sample-script-4.sh  | shell variables              |
+| Sample-script-5.sh  | readonly variables           |
+| Sample-script-6.sh  | command-line arguments       |
+| Sample-script-7.sh  | exit status `$?`             |
+| Sample-script-8.sh  | arithmetic & if-elif         |
+| Sample-script-9.sh  | multiple if conditions       |
+| Sample-script-10.sh | if-else logic                |
+| Sample-script-11.sh | if-elif with user input      |
+| Sample-script-12.sh | string comparisons           |
+| Sample-script-13.sh | logical operators            |
+| Sample-script-14.sh | basic for loop               |
+| Sample-script-15.sh | for loop with strings        |
+| Sample-script-16.sh | while loop                   |
+| Sample-script-17.sh | functions                    |
+| Sample-script-18.sh | function calling function    |
+| Sample-script-19.sh | placeholder / future example |
 
 > 📝 *You can update the right column with a short description of what each script does.*
 
@@ -136,3 +135,7 @@ This repository is open source and available under the MIT License.
 ### ✨ Notes
 
 Shell scripting is a powerful tool to automate tasks, work with files/programs, and control automation workflows in Linux/Unix environments. ([Shell Script][3])
+
+### ✨ Maintained by
+
+NavOps Academy | Building Career's 
