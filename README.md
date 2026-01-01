@@ -22,19 +22,39 @@ This repository contains a series of sample shell scripts designed to help learn
 
 ---
 
+# Fundamentals Of Shell Scripts 🐧
+
+A beginner-friendly repository by **NavOps Academy** that covers **core Bash shell scripting concepts** used in Linux, DevOps, and Cloud environments.
+
+---
+
 ## 📌 About
 
-Shell scripting allows you to automate repetitive tasks and sequence commands in the Linux/Unix shell environment. These scripts demonstrate basic constructs like **echo**, **variables**, **user input**, **conditionals**, **loops**, and more. ([Wikipedia][1])
+This repository contains **step-by-step shell scripting examples** starting from basic commands to conditionals, loops, and functions.  
+It is designed for:
+- Linux beginners
+- DevOps learners
+- AWS / Cloud students
+- Interview preparation
 
 ---
 
 ## 🧰 Prerequisites
 
-Before using these scripts:
+- Linux / macOS / WSL
+- Bash shell
+- Basic terminal knowledge
 
-* Linux/Unix environment (Linux, WSL, macOS Terminal, etc.)
-* Basic shell experience (i.e., using `ls`, `cd`, `cat`, etc.)
-* Bash installed (default on most systems) ([TutorialsPoint][2])
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/navopsacademy/Fundamentals-Of-Shell-Scripts.git
+cd Fundamentals-Of-Shell-Scripts
+chmod +x Sample-script-*.sh
+./Sample-script-1.sh
+
 
 ---
 
@@ -83,8 +103,6 @@ Run it:
 | Sample-script-17.sh | functions                    |
 | Sample-script-18.sh | function calling function    |
 | Sample-script-19.sh | placeholder / future example |
-
-> 📝 *You can update the right column with a short description of what each script does.*
 
 ---
 
@@ -138,4 +156,4 @@ Shell scripting is a powerful tool to automate tasks, work with files/programs, 
 
 ### ✨ Maintained by
 
-NavOps Academy | Building Career's 
+NavOps Academy | Building Career's
