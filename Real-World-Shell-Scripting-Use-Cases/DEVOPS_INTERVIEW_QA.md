@@ -24,7 +24,7 @@
 23.What does the. (dot) indicate at the beginning of a file name and how
 should it be listed
 24.Generally, each block in UNIX is how many bytes?
-25. By default, a new file and a new directory that is being created will have
+25.By default, a new file and a new directory that is being created will have
 how many links
 26.Explain about file permission
 27.What is a file system
