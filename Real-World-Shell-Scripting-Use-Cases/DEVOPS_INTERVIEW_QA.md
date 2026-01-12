@@ -66,4 +66,3 @@ are available in a shell? Explain in brief
 58.What is the difference between diff and cmp commands
 59.Explain in brief about sed command with an example
 60.Explain in brief about awk command with an example. EC2
-<img width="833" height="1633" alt="image" src="https://github.com/user-attachments/assets/328d0dae-1a31-4bf5-b5f5-3a648954a868" />
