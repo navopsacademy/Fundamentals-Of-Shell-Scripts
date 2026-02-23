@@ -131,8 +131,15 @@ This project is **open-source** and free to use for learning and teaching purpos
 
 ---
 
-## ✨ Maintained By
 
-**NavOps Academy | Building Career's**
+## 👨‍💻 Author
 
+Rushikesh Sutar\
+DevOps Engineer
 Empowering learners in Linux, DevOps, Cloud & Automation 🚀
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
+
+
