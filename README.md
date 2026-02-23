@@ -136,6 +136,7 @@ This project is **open-source** and free to use for learning and teaching purpos
 
 Rushikesh Sutar\
 DevOps Engineer
+
 Empowering learners in Linux, DevOps, Cloud & Automation 🚀
 
 ------------------------------------------------------------------------
